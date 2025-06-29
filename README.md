@@ -243,11 +243,11 @@ docker system prune -a
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ## 👥 Autores
 
-- **Equipo de Desarrollo** - *Desarrollo inicial* - [Tu Organización]
+- **Equipo de Desarrollo** - *Desarrollo inicial* - Los Dolphins
 
 ## 🙏 Reconocimientos
 
